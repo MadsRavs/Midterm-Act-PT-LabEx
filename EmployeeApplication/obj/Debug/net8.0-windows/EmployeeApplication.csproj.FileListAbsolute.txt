@@ -1,0 +1,16 @@
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.exe
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.deps.json
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.frmEmployeeDatabase.resources
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\refint\EmployeeApplication.dll
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\Prince Travis Amado\source\repos\EmployeeApplication\obj\Debug\net8.0-windows\ref\EmployeeApplication.dll
