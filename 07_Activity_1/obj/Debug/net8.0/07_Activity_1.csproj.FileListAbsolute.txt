@@ -1,0 +1,14 @@
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.AssemblyInfoInputs.cache
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.AssemblyInfo.cs
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.csproj.CoreCompileInputs.cache
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\bin\Debug\net8.0\07_Activity_1.exe
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\bin\Debug\net8.0\07_Activity_1.deps.json
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\bin\Debug\net8.0\07_Activity_1.runtimeconfig.json
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\bin\Debug\net8.0\07_Activity_1.dll
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\bin\Debug\net8.0\07_Activity_1.pdb
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.dll
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\refint\07_Activity_1.dll
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.pdb
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\07_Activity_1.genruntimeconfig.cache
+C:\Users\Prince Travis Amado\source\repos\07_Activity_1\obj\Debug\net8.0\ref\07_Activity_1.dll
