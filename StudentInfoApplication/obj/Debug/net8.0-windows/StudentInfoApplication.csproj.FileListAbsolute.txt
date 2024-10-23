@@ -1,0 +1,16 @@
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.exe
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.deps.json
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.runtimeconfig.json
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.dll
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.pdb
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.AssemblyInfoInputs.cache
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.AssemblyInfo.cs
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.dll
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\refint\StudentInfoApplication.dll
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.pdb
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.genruntimeconfig.cache
+C:\Users\Prince Travis Amado\source\repos\StudentInfoApplication\obj\Debug\net8.0-windows\ref\StudentInfoApplication.dll
